@@ -1,5 +1,7 @@
-TOKEN: ""
-prefix: "V!"
-owner İd: ""
-Bot Durumu
-
+module.exports = {
+    Token: "",
+    BotId: "",
+    OwnerId: "",
+    AnaSunucuId: "",
+    BotDurumu: ""
+};
