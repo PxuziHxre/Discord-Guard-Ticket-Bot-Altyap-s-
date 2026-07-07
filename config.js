@@ -3,5 +3,6 @@ module.exports = {
     BotId: "",
     OwnerId: "",
     AnaSunucuId: "",
-    BotDurumu: ""
+    BotDurumu: "",
+    TicketKategoriId: ""
 };
